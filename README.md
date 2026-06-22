@@ -96,11 +96,12 @@ streamlit run app.py
 ```text
 ResearchMind/
 │
-├── agents.py           # Search and Reader agents
-├── pipeline.py         # End-to-end research workflow
-├── app.py              # Streamlit web application
-├── requirements.txt    # Project dependencies
-├── .env.example        # Environment variable template
+├── agents.py 
+├── pipeline.py 
+├── app.py 
+├── tools.py
+├── requirements.txt
+├── .env.example 
 └── README.md
 ```
 
